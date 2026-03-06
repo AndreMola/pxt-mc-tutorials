@@ -1,0 +1,19 @@
+{
+    "name": "tutoriais-viena",
+    "version": "0.1.0",
+    "description": "Tutoriais Plataforma Viena",
+    "dependencies": {
+        "core": "*",
+        "microbit": "*"
+    },
+    "files": [],
+    "testFiles": [],
+    "targetVersions": {
+        "target": "6.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
